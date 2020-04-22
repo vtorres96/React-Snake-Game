@@ -12,7 +12,7 @@ Project developed with React Hooks and Canvas
 
 ## How to install packages (frontend)
 
-### after cloning the repository enter the frontend folder
+### after cloning the repository enter the app folder
 
 ```sh
 $ cd app

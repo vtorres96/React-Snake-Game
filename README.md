@@ -7,7 +7,7 @@ Project developed with React Hooks and Canvas
  - arrow functions
  - useRef
  - useState
- - useRef
+ - useEffect
  ```
 
 ## How to install packages (frontend)
